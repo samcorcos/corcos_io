@@ -6,7 +6,7 @@ Router.configure
 Router.map ->
 
   @route 'home',
-    path '/'
+    path: '/'
 
   @route 'privacy',
-    path '/privacy'
+    path: '/privacy'
