@@ -1,3 +1,10 @@
 #Corcos.io
 
-Personal Website
+##Sam
+
+- Google Maps
+- New York Times
+- Zillow
+- 
+
+##Chet
